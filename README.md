@@ -58,7 +58,7 @@ export MCD_MCP_TOKEN="你的Token"
 ### 3. 运行
 
 ```bash
-git clone https://github.com/<你的账号>/mcd-deal-radar.git
+git clone https://github.com/6244rpjh6n-lang/mcd-deal-radar.git
 cd mcd-deal-radar
 python scripts/deal_radar.py
 ```
