@@ -37,7 +37,9 @@
 
 详见 [MCP_INTEGRATION.md](MCP_INTEGRATION.md)。
 
-## 快速开始
+## 安装与快速开始
+
+无需 pip install：本项目只依赖 Python 3.9+ 标准库，自带最小 MCP 客户端，零第三方依赖。
 
 ### 1. 申请 MCP Token
 
